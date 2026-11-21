@@ -178,7 +178,7 @@ These are analytical recommendations and hypotheses for further business testing
 - Revenue exposure is based on historical monthly charges associated with churned customers, not measured future revenue loss.
 - Retention campaign effectiveness has not been tested.
 
-## 12. Tools & Technologies
+## 12. Tools and Technologies
 
 | Category | Tools |
 |---|---|
@@ -195,23 +195,7 @@ These are analytical recommendations and hypotheses for further business testing
 |---|---|
 | [Customer_Churn.ipynb](Customer_Churn.ipynb) | Integrated customer churn prediction, model evaluation, revenue exposure analysis and customer value intelligence |
 
-## 14. How to Run the Project
-
-1. Clone or download this repository.
-2. Install the required Python libraries.
-3. Place the `customer_churn_data.csv` dataset in the notebook's working directory.
-4. Open `Customer_Churn.ipynb` in Jupyter Notebook or JupyterLab.
-5. Run the notebook cells in sequence.
-
-Install the main dependencies:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib jupyter
-```
-
-**Note:** The dataset is not included in this repository. The notebook expects a local file named `customer_churn_data.csv`.
-
-## 15. Conclusion
+## 14. Conclusion
 
 This project combines predictive modelling with customer and revenue intelligence.
 
@@ -223,7 +207,7 @@ Together, these analyses provide a framework for identifying customers who may r
 
 ---
 
-## 16. Visual Results
+## 15. Visual Results
 
 The following visualisations highlight key findings from the customer churn prediction and revenue intelligence analysis.
 
