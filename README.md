@@ -1,4 +1,4 @@
-# Customer Churn Prediction & Revenue Intelligence
+# Customer Churn Prediction and Revenue Intelligence
 
 An integrated data science project combining machine learning, customer analytics and revenue intelligence to investigate customer churn, evaluate predictive models and identify financially important customer segments.
 
@@ -220,3 +220,47 @@ The machine learning analysis compares three classification algorithms and demon
 The business analysis extends the project beyond churn prediction by examining contract-level revenue exposure, customer value segments and revenue concentration.
 
 Together, these analyses provide a framework for identifying customers who may require attention and understanding the financial characteristics of customer attrition.
+
+---
+
+## 16. Visual Results
+
+The following visualisations highlight key findings from the customer churn prediction and revenue intelligence analysis.
+
+### A. Customer Churn & Behaviour
+
+**1. Customer Churn Distribution**
+
+![Customer Churn Distribution](images/01_churn_distribution.png)
+
+**2. Average Monthly Charges by Contract Type**
+
+![Average Monthly Charges by Contract](images/02_average_monthly_charges_by_contract.png)
+
+**3. Monthly Charges Distribution**
+
+![Monthly Charges Distribution](images/03_monthly_charges_distribution.png)
+
+**4. Customer Tenure Distribution**
+
+![Customer Tenure Distribution](images/04_customer_tenure_distribution.png)
+
+### B. Predictive Model Performance
+
+**5. Precision–Recall Curve**
+
+![Precision Recall Curve](images/05_precision_recall_curve.png)
+
+### C. Revenue Intelligence
+
+**6. Revenue Exposure by Contract**
+
+![Revenue Exposure by Contract](images/06_revenue_exposure_by_contract.png)
+
+**7. Revenue by Customer Segment**
+
+![Revenue by Customer Segment](images/07_revenue_by_customer_segment.png)
+
+**8. Cumulative Revenue Concentration**
+
+![Cumulative Revenue Concentration](images/08_cumulative_revenue_concentration.png)
